@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/to-do-list-pwa",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

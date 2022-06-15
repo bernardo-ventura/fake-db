@@ -1,0 +1,31 @@
+.list-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 100px;
+}
+
+.title {
+  margin-bottom: 40px;
+}
+
+.input-container {
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.input-task {
+  width: 20%;
+  padding-left: 10px;
+  width: 25vh;
+}
+
+.item-row {
+  width: 45vh;
+}
+
+.remove-item {
+  align-items: center;
+  padding-bottom: 4px;
+}
